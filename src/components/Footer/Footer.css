@@ -1,0 +1,22 @@
+.app__Footer{
+    margin: 2rem 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+}
+
+.app__Footer-items{
+    display: flex;
+    flex:1;
+    justify-content: space-evenly;
+    flex-direction: column;
+    color: #00000094;
+
+}
+.app__Footer h2{
+    margin: 0px 0px 0.5rem;
+    font-size: 19px;
+}
+
